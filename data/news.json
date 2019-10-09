@@ -1,0 +1,102 @@
+{
+  "data2":[
+  	{
+  		"imgs":"./data/images/new_lis1.png",
+  		"title":"潮流折扣日Vol.52︱错过了双十一的好货，别再...",
+  		"desc":"​双十一虽好，但也并非没有遗憾；双十二还早，适时“补货”...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+  	{
+  		"imgs":"./data/images/new_lis2.jpg",
+  		"title":"识货潮流折扣日Vol.4︱最好的平价潮品都在这里...",
+  		"desc":"他强任他强，识货带你做潮王！外套会有的，裤子会有的...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+  	{
+  		"imgs":"./data/images/new_lis3.jpg",
+  		"title":" 潮流折扣日Vol.32︱这个冬天，就让潮流温暖...",
+  		"desc":"​2018年来了，天气也跟着越来越冷了，在这个好像全世...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+  	{
+  		"imgs":"./data/images/new_lis4.jpg",
+  		"title":"环卫服、沙滩裤也成了潮流？2019入夏穿搭攻略！",
+  		"desc":"入夏必备颜色荧光绿你一定要买，入夏必备配件机能马甲...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+  	{
+  		"imgs":"./data/images/new_lis5.jpg",
+  		"title":"潮流折扣日Vol.37︱新年压岁钱怎么花？识货折...",
+  		"desc":"对于“还是孩子”的JR来说，年后的一件大事儿就是要花掉...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+  	{
+  		"imgs":"./data/images/new_lis6.jpg",
+  		"title":"侃爷再次打开了自己的鞋柜，并且告诉你哪双YEEZ...",
+  		"desc":"近日巴黎时装周正在如火如荼地展开，各大品牌 2019 ...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+  	{
+  		"imgs":"./data/images/new_lis7.jpg",
+  		"title":"Supreme “龙袍” 夹克将于本周发售！侃爷...",
+  		"desc":"Kanye West 近日在社交网路上发布了一张极似《...",
+  		"img":"./data/images/news04.jpg",
+  		"name":"北向26度"
+  	},
+    {
+    	"imgs":"./data/images/new_lis1.png",
+    	"title":"潮流折扣日Vol.52︱错过了双十一的好货，别再...",
+    	"desc":"​双十一虽好，但也并非没有遗憾；双十二还早，适时“补货”...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    },
+    {
+    	"imgs":"./data/images/new_lis2.jpg",
+    	"title":"识货潮流折扣日Vol.4︱最好的平价潮品都在这里...",
+    	"desc":"他强任他强，识货带你做潮王！外套会有的，裤子会有的...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    },
+    {
+    	"imgs":"./data/images/new_lis3.jpg",
+    	"title":" 潮流折扣日Vol.32︱这个冬天，就让潮流温暖...",
+    	"desc":"​2018年来了，天气也跟着越来越冷了，在这个好像全世...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    },
+    {
+    	"imgs":"./data/images/new_lis4.jpg",
+    	"title":"环卫服、沙滩裤也成了潮流？2019入夏穿搭攻略！",
+    	"desc":"入夏必备颜色荧光绿你一定要买，入夏必备配件机能马甲...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    },
+    {
+    	"imgs":"./data/images/new_lis5.jpg",
+    	"title":"潮流折扣日Vol.37︱新年压岁钱怎么花？识货折...",
+    	"desc":"对于“还是孩子”的JR来说，年后的一件大事儿就是要花掉...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    },
+    {
+    	"imgs":"./data/images/new_lis6.jpg",
+    	"title":"侃爷再次打开了自己的鞋柜，并且告诉你哪双YEEZ...",
+    	"desc":"近日巴黎时装周正在如火如荼地展开，各大品牌 2019 ...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    },
+    {
+    	"imgs":"./data/images/new_lis7.jpg",
+    	"title":"Supreme “龙袍” 夹克将于本周发售！侃爷...",
+    	"desc":"Kanye West 近日在社交网路上发布了一张极似《...",
+    	"img":"./data/images/news04.jpg",
+    	"name":"北向26度"
+    }
+  ]
+}

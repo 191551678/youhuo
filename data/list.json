@@ -1,0 +1,259 @@
+{
+	"list":[
+		{
+			"title":"为您推荐",
+			"tag":"1",
+			"on":"view1"
+		},
+		{
+			"title":"热门品牌",
+			"tag":"2",
+			"on":"view2"
+		}
+		,
+		{
+			"title":"篮球鞋",
+			"tag":"3",
+			"on":"view3"
+		}
+		,
+		{
+			"title":"跑鞋",
+			"tag":"4",
+			"on":"view1"
+		}
+		,
+		{
+			"title":"休闲鞋",
+			"tag":"5",
+			"on":"view2"
+		}
+		,
+		{
+			"title":"其他鞋类",
+			"tag":"6",
+			"on":"view3"
+		}
+		,
+		{
+			"title":"潮流服饰",
+			"tag":"7",
+			"on":"view1"
+		}
+		,
+		{
+			"title":"运动服饰",
+			"tag":"8",
+			"on":"view2"
+		},
+		{
+			"title":"配件/包类",
+			"tag":"9",
+			"on":"view3"
+		}
+		,
+		{
+			"title":"手机/配件",
+			"tag":"10",
+			"on":"view1"
+		}
+		,
+		{
+			"title":"数码3C",
+			"tag":"11",
+			"on":"view2"
+		}
+		,
+		{
+			"title":"创意生活",
+			"tag":"12",
+			"on":"view3"
+		}
+	],
+	"view1":[
+		{
+			"img":"./data/images/home010.jpg",
+			"title":"Yeezy"
+		},
+		{
+			"img":"./data/images/home017.jpg",
+			"title":"Air Jordan"
+		},
+		{
+			"img":"./data/images/home25.jpg",
+			"title":"Yeezy—Pro"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		}
+	],
+	"view2":[
+		{
+			"img":"./data/images/home27.jpg",
+			"title":"Yeezy"
+		},
+		{
+			"img":"./data/images/home28.jpg",
+			"title":"Air Jordan"
+		},
+		{
+			"img":"./data/images/home29.png",
+			"title":"Yeezy—Pro"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		}
+	],
+	"view3":[
+		{
+			"img":"./data/images/home30.png",
+			"title":"Yeezy"
+		},
+		{
+			"img":"./data/images/home31.jpg",
+			"title":"Air Jordan"
+		},
+		{
+			"img":"./data/images/home22.jpg",
+			"title":"Yeezy—Pro"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		},
+		{
+			"img":"./data/images/home34.png",
+			"title":"Ultra Boost"
+		}
+	]
+}
